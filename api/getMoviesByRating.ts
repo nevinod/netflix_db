@@ -5,10 +5,10 @@ const movies = moviesData['_default']
 
 interface MovieRatingProps {
     minRating: number;
-    success: boolean;
+    success?: boolean;
 }
 
-export default function fetchMoviesByRating ({
+export default function getMoviesByRating ({
     minRating,
     success = true,
 }: MovieRatingProps) {

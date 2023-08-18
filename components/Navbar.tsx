@@ -10,6 +10,7 @@ function Navbar() {
             h="4rem" 
             top={0}
             align="center"
+            zIndex={100}
         >
             <Link ml="3">
                 <Heading>MOVIES_DB</Heading>

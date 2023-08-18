@@ -9,7 +9,7 @@ interface MovieYearProps {
     success: boolean;
 }
 
-export default function gethMoviesByYear ({
+export default function getMoviesByYear ({
     minYear, maxYear, success = true
 }: MovieYearProps) {
     let endYear = maxYear || currentYear();

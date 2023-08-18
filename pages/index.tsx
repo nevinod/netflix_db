@@ -1,20 +1,30 @@
 import { useState } from "react";
 import MainLayout from "@/components/mainLayout";
-import getMovieById from "@/api/getMovieById";
+import { DemoMovieCard } from "@/components/DemoMovieCard";
+import getMoviesByRating from "@/api/getMoviesByRating";
+import { Divider } from "@chakra-ui/react";
 
 export default function Home() {
-  const [movie, setMovie] = useState(null)
+  const [movies, setMovies] = useState([])
 
-  getMovieById({ id: "100" }).then((data: any) => setMovie(data))
+  getMoviesByRating({ minRating: 8.5 }).then((data: any) => setMovies(data))
 
   return (
     <MainLayout>
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
-        {movie ? <div>Complete</div> : <div>Loading...</div>}
+        {movies.length ? <div>Complete</div> : <div>Loading...</div>}
 
         <hr style={{marginBottom: "20px"}} />
 
-        {movie && <code>{JSON.stringify(movie, null, 4)}</code>}
+        {movies.map((movie: any) => {
+          return (
+            <div>
+              <DemoMovieCard movie={movie} key={movie.movie_name} />
+              <Divider mt={4}/>
+            </div>
+            
+          )
+        })}
       </main>
     </MainLayout>
   )
