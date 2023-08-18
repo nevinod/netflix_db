@@ -18,8 +18,8 @@ export default function Home() {
 
         {movies.map((movie: any) => {
           return (
-            <div>
-              <DemoMovieCard movie={movie} key={movie.movie_name} />
+            <div key={movie.movie_name}>
+              <DemoMovieCard movie={movie} />
               <Divider mt={4}/>
             </div>
             
