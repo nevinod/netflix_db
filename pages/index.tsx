@@ -1,5 +1,5 @@
 import { useState } from "react";
-import MainLayout from "@/components/MainLayout";
+import MainLayout from "@/components/mainLayout";
 import { DemoMovieCard } from "@/components/DemoMovieCard";
 import getMoviesByRating from "@/api/getMoviesByRating";
 import { Divider, Flex } from "@chakra-ui/react";
