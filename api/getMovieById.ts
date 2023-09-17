@@ -1,6 +1,6 @@
 //@ts-nocheck
 import { BAD_REQUEST, DEFAULT_TIMEOUT } from './utils'
-import moviesData from './records.json';
+import moviesData from './condensed.json';
 const movies = moviesData['_default']
 
 interface MovieIdProps {

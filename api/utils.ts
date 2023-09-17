@@ -1,4 +1,4 @@
-export const DEFAULT_TIMEOUT = 2500;
+export const DEFAULT_TIMEOUT = 1000;
 
 export const BAD_REQUEST = 400;
 

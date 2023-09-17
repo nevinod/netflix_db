@@ -7,7 +7,7 @@ function MainLayout({ children }: { children: React.ReactNode}) {
     return (
         <RootLayout>
             <Navbar />
-            <Container as="main" mt="20">
+            <Container as="main" maxW='4xl' mt="20" justifyContent="center" display="flex">
                 {children}
             </Container>
         </RootLayout>

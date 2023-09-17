@@ -1,0 +1,916 @@
+{
+    "_default": {
+        "1": {
+            "movie_name": "#FriendButMarried",
+            "Duration": 102,
+            "year": 2018,
+            "genre": [
+                "Dramas",
+                "International Movies",
+                "Romantic Movies"
+            ],
+            "director": "Rako Prijanto",
+            "actors": [
+                "Adipati Dolken",
+                "Vanesha Prescilla",
+                "Rendi Jhon",
+                "Beby Tsabina",
+                "Denira Wiraguna",
+                "Refal Hady",
+                "Diandra Agatha",
+                "Sari Nila"
+            ],
+            "country": "Indonesia",
+            "rating": 7.0
+        },
+        "2": {
+            "movie_name": "#Selfie",
+            "Duration": 125,
+            "year": 2014,
+            "genre": [
+                "Comedies",
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Cristina Jacob",
+            "actors": [
+                "Flavia Hojda",
+                "Crina Semciuc",
+                "Olimpia Melinte",
+                "Levent Sali",
+                "Vlad Logigan",
+                "Alex Calin",
+                "Alina Chivulescu",
+                "Razvan Vasilescu"
+            ],
+            "country": "Romania",
+            "rating": 6.1
+        },
+        "3": {
+            "movie_name": "#Selfie 69",
+            "Duration": 119,
+            "year": 2016,
+            "genre": [
+                "Comedies",
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Cristina Jacob",
+            "actors": [
+                "Maia Morgenstern",
+                "Olimpia Melinte",
+                "Crina Semciuc",
+                "Flavia Hojda",
+                "Maria Dinulescu",
+                "Alex Calin",
+                "Vlad Logigan",
+                "Levent Sali",
+                "Silvia Busuioc",
+                "Mihaela Mihut"
+            ],
+            "country": "Romania",
+            "rating": 6.3
+        },
+        "4": {
+            "movie_name": "#realityhigh",
+            "Duration": 99,
+            "year": 2017,
+            "genre": [
+                "Comedies"
+            ],
+            "director": "Fernando Lebrija",
+            "actors": [
+                "Nesta Cooper",
+                "Kate Walsh",
+                "John Michael Higgins",
+                "Keith Powers",
+                "Alicia Sanz",
+                "Jake Borelli",
+                "Kid Ink",
+                "Yousef Erakat",
+                "Rebekah Graf",
+                "Anne Winters",
+                "Peter Gilroy",
+                "Patrick Davis"
+            ],
+            "country": "United States",
+            "rating": 5.2
+        },
+        "5": {
+            "movie_name": "10 Days in Sun City",
+            "Duration": 87,
+            "year": 2017,
+            "genre": [
+                "Comedies",
+                "International Movies",
+                "Romantic Movies"
+            ],
+            "director": "Adze Ugah",
+            "actors": [
+                "Ayo Makun",
+                "Adesua Etomi",
+                "Richard Mofe-Damijo",
+                "Mercy Johnson",
+                "Falz",
+                "Tuface Idibia",
+                "Thenjiwe Moseley",
+                "Motlatsi Mafatshe",
+                "Celeste Ntuli",
+                "Miguel A. N\u00fa\u00f1ez Jr."
+            ],
+            "country": "South Africa",
+            "rating": 5.3
+        },
+        "6": {
+            "movie_name": "10 jours en or",
+            "Duration": 97,
+            "year": 2012,
+            "genre": [
+                "Comedies",
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Nicolas Brossette",
+            "actors": [
+                "Franck Dubosc",
+                "Claude Rich",
+                "Marie Kremer",
+                "Mathis Tour\u00e9",
+                "Rufus",
+                "Olivier Claverie"
+            ],
+            "country": "France",
+            "rating": 5.8
+        },
+        "7": {
+            "movie_name": "100 Meters",
+            "Duration": 109,
+            "year": 2016,
+            "genre": [
+                "Dramas",
+                "International Movies",
+                "Sports Movies"
+            ],
+            "director": "Marcel Barrena",
+            "actors": [
+                "Dani Rovira",
+                "Karra Elejalde",
+                "Alexandra Jim\u00e9nez",
+                "David Verdaguer",
+                "Clara Segura",
+                "Alba Ribas",
+                "Bruno Bergonzini",
+                "Ricardo Pereira",
+                "Manuela Couto",
+                "Marc Balaguer"
+            ],
+            "country": "Portugal, Spain",
+            "rating": 7.5
+        },
+        "8": {
+            "movie_name": "1000 Rupee Note",
+            "Duration": 89,
+            "year": 2014,
+            "genre": [
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Shrihari Sathe",
+            "actors": [
+                "Usha Naik",
+                "Sandeep Pathak",
+                "Shrikant Yadav",
+                "Ganesh Yadav",
+                "Pooja Nayak",
+                "Devendra Gaikwad"
+            ],
+            "country": "India",
+            "rating": 7.3
+        },
+        "9": {
+            "movie_name": "12 ROUND GUN",
+            "Duration": 90,
+            "year": 2017,
+            "genre": [
+                "Dramas",
+                "Independent Movies",
+                "Sports Movies"
+            ],
+            "director": "Sam Upton",
+            "actors": [
+                "Sam Upton",
+                "Jared Abrahamson",
+                "Mark Boone Junior",
+                "Laila Ali",
+                "Kate Vernon",
+                "Cassi Thomson",
+                "Colby French",
+                "Miguel Perez",
+                "Jay Acovone"
+            ],
+            "country": "United States",
+            "rating": 4.7
+        },
+        "10": {
+            "movie_name": "122",
+            "Duration": 95,
+            "year": 2019,
+            "genre": [
+                "Horror Movies",
+                "International Movies"
+            ],
+            "director": "Yasir Al Yasiri",
+            "actors": [
+                "Amina Khalil",
+                "Ahmed Dawood",
+                "Tarek Lotfy",
+                "Ahmed El Fishawy",
+                "Mahmoud Hijazi",
+                "Jihane Khalil",
+                "Asmaa Galal",
+                "Tara Emad"
+            ],
+            "country": "Egypt",
+            "rating": 7.1
+        },
+        "11": {
+            "movie_name": "13 Cameras",
+            "Duration": 90,
+            "year": 2015,
+            "genre": [
+                "Horror Movies",
+                "Independent Movies",
+                "Thrillers"
+            ],
+            "director": "Victor Zarcoff",
+            "actors": [
+                "PJ McCabe",
+                "Brianne Moncrief",
+                "Sarah Baldwin",
+                "Jim Cummings",
+                "Heidi Niedermeyer",
+                "Neville Archambault"
+            ],
+            "country": "United States",
+            "rating": 5.1
+        },
+        "12": {
+            "movie_name": "13 Sins",
+            "Duration": 93,
+            "year": 2014,
+            "genre": [
+                "Horror Movies",
+                "Thrillers"
+            ],
+            "director": "Daniel Stamm",
+            "actors": [
+                "Mark Webber",
+                "Rutina Wesley",
+                "Devon Graye",
+                "Tom Bower",
+                "Ron Perlman",
+                "Pruitt Taylor Vince"
+            ],
+            "country": "United States",
+            "rating": 6.3
+        },
+        "13": {
+            "movie_name": "14 Blades",
+            "Duration": 113,
+            "year": 2010,
+            "genre": [
+                "Action & Adventure",
+                "International Movies"
+            ],
+            "director": "Daniel Lee",
+            "actors": [
+                "Donnie Yen",
+                "Zhao Wei",
+                "Wu Chun",
+                "Law Kar-Ying",
+                "Kate Tsui",
+                "Yuwu Qi",
+                "Wu Ma",
+                "Chen Kuan Tai",
+                "Sammo Kam-Bo Hung",
+                "Chen Zhi Hui",
+                "Damian Lau",
+                "Xiang Dong Xu"
+            ],
+            "country": "Hong Kong, China, Singapore",
+            "rating": 6.3
+        },
+        "14": {
+            "movie_name": "14 Cameras",
+            "Duration": 89,
+            "year": 2018,
+            "genre": [
+                "Horror Movies",
+                "Thrillers"
+            ],
+            "director": "Scott Hussion",
+            "actors": [
+                "Neville Archambault",
+                "Amber Midthunder",
+                "Brytnee Ratledge",
+                "Hank Rogerson",
+                "Chelsea Edmundson",
+                "John-Paul Howard",
+                "Lora Martinez-Cunningham",
+                "Brianne Moncrief"
+            ],
+            "country": "United States",
+            "rating": 4.5
+        },
+        "15": {
+            "movie_name": "15 August",
+            "Duration": 124,
+            "year": 2019,
+            "genre": [
+                "Comedies",
+                "Dramas",
+                "Independent Movies"
+            ],
+            "director": "Swapnaneel Jayakar",
+            "actors": [
+                "Rahul Pethe",
+                "Mrunmayee Deshpande",
+                "Adinath Kothare",
+                "Vaibhav Mangale",
+                "Jaywant Wadkar",
+                "Satish Pulekar",
+                "Naina Apte",
+                "Uday Tikekar"
+            ],
+            "country": "India",
+            "rating": 5.8
+        },
+        "16": {
+            "movie_name": "18 Presents",
+            "Duration": 114,
+            "year": 2020,
+            "genre": [
+                "Dramas",
+                "Independent Movies",
+                "International Movies"
+            ],
+            "director": "Francesco Amato",
+            "actors": [
+                "Vittoria Puccini",
+                "Benedetta Porcaroli",
+                "Edoardo Leo",
+                "Sara Lazzaro",
+                "Marco Messeri",
+                "Betty Pedrazzi",
+                "Alessandro Giallocosta",
+                "Filippo Gili",
+                "Giacomo Rosselli"
+            ],
+            "country": "Italy",
+            "rating": 6.7
+        },
+        "17": {
+            "movie_name": "1898: Our Last Men in the Philippines",
+            "Duration": 130,
+            "year": 2016,
+            "genre": [
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Salvador Calvo",
+            "actors": [
+                "Luis Tosar",
+                "Javier Guti\u00e9rrez",
+                "\u00c1lvaro Cervantes",
+                "Karra Elejalde",
+                "Carlos Hip\u00f3lito",
+                "Ricardo G\u00f3mez",
+                "Patrick Criado",
+                "Eduard Fern\u00e1ndez",
+                "Miguel Herr\u00e1n",
+                "Emilio Palacios"
+            ],
+            "country": "Spain",
+            "rating": 6.5
+        },
+        "18": {
+            "movie_name": "1920",
+            "Duration": 143,
+            "year": 2008,
+            "genre": [
+                "Horror Movies",
+                "International Movies",
+                "Thrillers"
+            ],
+            "director": "Vikram Bhatt",
+            "actors": [
+                "Rajneesh Duggal",
+                "Adah Sharma",
+                "Indraneil Sengupta",
+                "Anjori Alagh",
+                "Rajendranath Zutshi",
+                "Vipin Sharma",
+                "Amin Hajee",
+                "Shri Vallabh Vyas"
+            ],
+            "country": "India",
+            "rating": 6.4
+        },
+        "19": {
+            "movie_name": "1922",
+            "Duration": 103,
+            "year": 2017,
+            "genre": [
+                "Dramas",
+                "Thrillers"
+            ],
+            "director": "Zak Hilditch",
+            "actors": [
+                "Thomas Jane",
+                "Molly Parker",
+                "Dylan Schmid",
+                "Kaitlyn Bernard",
+                "Bob Frazer",
+                "Brian d'Arcy James",
+                "Neal McDonough"
+            ],
+            "country": "United States",
+            "rating": 6.3
+        },
+        "20": {
+            "movie_name": "2 Alone in Paris",
+            "Duration": 97,
+            "year": 2008,
+            "genre": [
+                "Comedies",
+                "International Movies"
+            ],
+            "director": "Ramzy Bedia",
+            "actors": [
+                "Ramzy Bedia",
+                "\u00c9ric Judor",
+                "Beno\u00eet Magimel",
+                "Kristin Scott Thomas",
+                "\u00c9lodie Bouchez",
+                "\u00c9douard Baer",
+                "Fred Testot",
+                "Omar Sy"
+            ],
+            "country": "France",
+            "rating": 5.4
+        },
+        "21": {
+            "movie_name": "2 States",
+            "Duration": 143,
+            "year": 2014,
+            "genre": [
+                "Comedies",
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Abhishek Varman",
+            "actors": [
+                "Alia Bhatt",
+                "Arjun Kapoor",
+                "Ronit Roy",
+                "Amrita Singh",
+                "Revathy",
+                "Aru Krishansh Verma"
+            ],
+            "country": "India",
+            "rating": 6.9
+        },
+        "22": {
+            "movie_name": "2,215",
+            "Duration": 89,
+            "year": 2018,
+            "genre": [
+                "Documentaries",
+                "International Movies",
+                "Sports Movies"
+            ],
+            "director": "Nottapon Boonprakob",
+            "actors": [
+                "Artiwara Kongmalai"
+            ],
+            "country": "Thailand",
+            "rating": 7.9
+        },
+        "23": {
+            "movie_name": "20 Feet From Stardom",
+            "Duration": 91,
+            "year": 2013,
+            "genre": [
+                "Documentaries",
+                "Music & Musicals"
+            ],
+            "director": "Morgan Neville",
+            "actors": [
+                "Darlene Love",
+                "Merry Clayton",
+                "Lisa Fischer",
+                "T\u00e1ta Vega",
+                "Claudia Lennear",
+                "Judith Hill",
+                "Bruce Springsteen",
+                "Mick Jagger",
+                "Stevie Wonder",
+                "Sting",
+                "Bette Midler",
+                "Cissy Houston",
+                "Sheryl Crow",
+                "Tata Vega"
+            ],
+            "country": "United States",
+            "rating": 7.4
+        },
+        "24": {
+            "movie_name": "2012",
+            "Duration": 158,
+            "year": 2009,
+            "genre": [
+                "Action & Adventure",
+                "Sci-Fi & Fantasy"
+            ],
+            "director": "Roland Emmerich",
+            "actors": [
+                "John Cusack",
+                "Amanda Peet",
+                "Chiwetel Ejiofor",
+                "Thandie Newton",
+                "Oliver Platt",
+                "Tom McCarthy",
+                "Woody Harrelson",
+                "Danny Glover",
+                "Liam James",
+                "Morgan Lily"
+            ],
+            "country": "United States",
+            "rating": 5.8
+        },
+        "25": {
+            "movie_name": "20th Century Women",
+            "Duration": 119,
+            "year": 2016,
+            "genre": [
+                "Dramas",
+                "Independent Movies"
+            ],
+            "director": "Mike Mills",
+            "actors": [
+                "Annette Bening",
+                "Elle Fanning",
+                "Greta Gerwig",
+                "Lucas Jade Zumann",
+                "Billy Crudup"
+            ],
+            "country": "United States",
+            "rating": 7.3
+        },
+        "26": {
+            "movie_name": "22 July",
+            "Duration": 144,
+            "year": 2018,
+            "genre": [
+                "Dramas",
+                "Thrillers"
+            ],
+            "director": "Paul Greengrass",
+            "actors": [
+                "Anders Danielsen Lie",
+                "Jon \u00d8igarden",
+                "Jonas Strand Gravli",
+                "Ola G. Furuseth",
+                "Maria Bock",
+                "Thorbj\u00f8rn Harr",
+                "Jaden Smith"
+            ],
+            "country": "Norway, Iceland, United States",
+            "rating": 6.8
+        },
+        "27": {
+            "movie_name": "23:59",
+            "Duration": 78,
+            "year": 2011,
+            "genre": [
+                "Horror Movies",
+                "International Movies"
+            ],
+            "director": "Gilbert Chan",
+            "actors": [
+                "Tedd Chan",
+                "Stella Chung",
+                "Henley Hii",
+                "Lawrence Koh",
+                "Tommy Kuan",
+                "Josh Lai",
+                "Mark Lee",
+                "Susan Leong",
+                "Benjamin Lim"
+            ],
+            "country": "Singapore",
+            "rating": 4.7
+        },
+        "28": {
+            "movie_name": "24 Hours to Live",
+            "Duration": 93,
+            "year": 2017,
+            "genre": [
+                "Action & Adventure"
+            ],
+            "director": "Brian Smrz",
+            "actors": [
+                "Ethan Hawke",
+                "Xu Qing",
+                "Paul Anderson",
+                "Rutger Hauer",
+                "Tyrone Keogh",
+                "Nathalie Boltt",
+                "Liam Cunningham"
+            ],
+            "country": "South Africa, China, United States",
+            "rating": 5.8
+        },
+        "29": {
+            "movie_name": "25 Kille",
+            "Duration": 140,
+            "year": 2016,
+            "genre": [
+                "Action & Adventure",
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Simranjit Singh Hundal",
+            "actors": [
+                "Guggu Gill",
+                "Yograj Singh",
+                "Sonia Mann",
+                "Jimmy Sharma",
+                "Sapna Bassi",
+                "Lakha Lakhwinder Singh",
+                "Sandeep Kaur Sandy",
+                "Sardar Sohi"
+            ],
+            "country": "India",
+            "rating": 5.9
+        },
+        "30": {
+            "movie_name": "26 Years",
+            "Duration": 135,
+            "year": 2012,
+            "genre": [
+                "Dramas",
+                "International Movies",
+                "Thrillers"
+            ],
+            "director": "Geun-hyun Cho",
+            "actors": [
+                "Goo Jin",
+                "Hye-jin Han",
+                "Soo-bin Bae",
+                "Seul-ong Im",
+                "Kyeong-yeong Lee",
+                "Gwang Jang",
+                "Deok-jae Jo",
+                "Eui-sung Kim",
+                "Seok-Hwan An",
+                "Bok-gi Min"
+            ],
+            "country": "South Korea",
+            "rating": 6.3
+        },
+        "31": {
+            "movie_name": "3 Deewarein",
+            "Duration": 121,
+            "year": 2003,
+            "genre": [
+                "Dramas",
+                "International Movies",
+                "Thrillers"
+            ],
+            "director": "Nagesh Kukunoor",
+            "actors": [
+                "Naseeruddin Shah",
+                "Jackie Shroff",
+                "Juhi Chawla",
+                "Nagesh Kukunoor",
+                "Gulshan Grover",
+                "Aditya Lakhia",
+                "Shri Vallabh Vyas"
+            ],
+            "country": "India",
+            "rating": 7.8
+        },
+        "32": {
+            "movie_name": "3 Generations",
+            "Duration": 92,
+            "year": 2015,
+            "genre": [
+                "Dramas",
+                "LGBTQ Movies"
+            ],
+            "director": "Gaby Dellal",
+            "actors": [
+                "Elle Fanning",
+                "Naomi Watts",
+                "Susan Sarandon",
+                "Tate Donovan",
+                "Linda Emond",
+                "Jordan Carlos",
+                "Sam Trammell",
+                "Maria Dizzia",
+                "Tessa Albertson"
+            ],
+            "country": "United States",
+            "rating": 5.9
+        },
+        "33": {
+            "movie_name": "3 Heroines",
+            "Duration": 124,
+            "year": 2016,
+            "genre": [
+                "Dramas",
+                "International Movies",
+                "Sports Movies"
+            ],
+            "director": "Iman Brotoseno",
+            "actors": [
+                "Reza Rahadian",
+                "Bunga Citra Lestari",
+                "Tara Basro",
+                "Chelsea Islan"
+            ],
+            "country": "Indonesia",
+            "rating": 6.5
+        },
+        "34": {
+            "movie_name": "3 Idiots",
+            "Duration": 164,
+            "year": 2009,
+            "genre": [
+                "Comedies",
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Rajkumar Hirani",
+            "actors": [
+                "Aamir Khan",
+                "Kareena Kapoor",
+                "Madhavan",
+                "Sharman Joshi",
+                "Omi Vaidya",
+                "Boman Irani",
+                "Mona Singh",
+                "Javed Jaffrey"
+            ],
+            "country": "India",
+            "rating": 8.4
+        },
+        "35": {
+            "movie_name": "3 T\u00fcrken & ein Baby",
+            "Duration": 93,
+            "year": 2015,
+            "genre": [
+                "Comedies",
+                "International Movies"
+            ],
+            "director": "Sinan Akku\u015f",
+            "actors": [
+                "Kostja Ullmann",
+                "Eko Fresh",
+                "Kida Khodr Ramadan",
+                "Sabrina Kl\u00fcber",
+                "Sami Nasser",
+                "Kayla Rybicka",
+                "Jytte-Merle B\u00f6hrnsen",
+                "Emrah Erdogru",
+                "Tim Grothe",
+                "H\u00fclya Duyar"
+            ],
+            "country": "Germany",
+            "rating": 5.5
+        },
+        "36": {
+            "movie_name": "30 Days of Luxury",
+            "Duration": 91,
+            "year": 2016,
+            "genre": [
+                "Comedies",
+                "International Movies"
+            ],
+            "director": "Hani Hamdi",
+            "actors": [
+                "Taher Farouz",
+                "Sad Al-Saghir",
+                "Ahmad Faloks",
+                "Soleiman Eid",
+                "Mahmood El-Laithi",
+                "Hesham Ismail",
+                "Shaima Saif",
+                "Nermin Maher",
+                "Sofinar"
+            ],
+            "country": "Egypt",
+            "rating": 2.6
+        },
+        "37": {
+            "movie_name": "300 Miles to Heaven",
+            "Duration": 93,
+            "year": 1989,
+            "genre": [
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Maciej Dejczer",
+            "actors": [
+                "Krzysztof Stroi\u0144ski",
+                "Andrzej Mellin",
+                "Adrianna Biedrzy\u0144ska",
+                "Adrianna Biedrzy\u0144ska",
+                "Rafa\u0142 Zimowski",
+                "Kama Kowalewska",
+                "Wies\u0142aw Komasa",
+                "Aleksander Bednarz",
+                "Jadwiga Jankowska-Cieslak",
+                "Wojciech Klata"
+            ],
+            "country": "Denmark, France, Poland",
+            "rating": 7.2
+        },
+        "38": {
+            "movie_name": "3022",
+            "Duration": 91,
+            "year": 2019,
+            "genre": [
+                "Independent Movies",
+                "Sci-Fi & Fantasy",
+                "Thrillers"
+            ],
+            "director": "John Suits",
+            "actors": [
+                "Omar Epps",
+                "Kate Walsh",
+                "Miranda Cosgrove",
+                "Angus Macfadyen",
+                "Jorja Fox",
+                "Enver Gjokaj",
+                "Haaz Sleiman"
+            ],
+            "country": "United States",
+            "rating": 4.7
+        },
+        "39": {
+            "movie_name": "37 Seconds",
+            "Duration": 116,
+            "year": 2020,
+            "genre": [
+                "Dramas",
+                "International Movies"
+            ],
+            "director": "Hikari",
+            "actors": [
+                "Mei Kayama",
+                "Misuzu Kanno",
+                "Shunsuke Daitoh",
+                "Makiko Watanabe",
+                "Yoshihiko Kumashino",
+                "Minori Hagiwara",
+                "Shohei Uno",
+                "Yuka Itaya",
+                "Kiyohiko Shibukawa",
+                "Eita Okuno",
+                "Haruka Imou",
+                "Toshinori Omi"
+            ],
+            "country": "Japan",
+            "rating": 7.3
+        },
+        "40": {
+            "movie_name": "40 Days and 40 Nights",
+            "Duration": 95,
+            "year": 2002,
+            "genre": [
+                "Comedies",
+                "Romantic Movies"
+            ],
+            "director": "Michael Lehmann",
+            "actors": [
+                "Josh Hartnett",
+                "Shannyn Sossamon",
+                "Paulo Costanzo",
+                "Adam Trese",
+                "Emmanuelle Vaugier",
+                "Lorin Heath",
+                "Aaron Trainor",
+                "Glenn Fitzgerald",
+                "Monet Mazur",
+                "Christine Chatelain",
+                "Keegan Connor Tracy",
+                "Michael C. Maronna",
+                "Vinessa Shaw"
+            ],
+            "country": "United States, United Kingdom, France",
+            "rating": 5.6
+        }
+    }
+}
