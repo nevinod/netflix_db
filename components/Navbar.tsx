@@ -13,7 +13,7 @@ function Navbar() {
             zIndex={100}
         >
             <Link ml="3">
-                <Heading>MOVIES_DB</Heading>
+                <Heading>MOVIES_db</Heading>
             </Link>
             
         </Flex>

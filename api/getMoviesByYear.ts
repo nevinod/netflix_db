@@ -1,6 +1,6 @@
 //@ts-nocheck
 import { BAD_REQUEST, DEFAULT_TIMEOUT, currentYear } from './utils';
-import moviesData from './records.json';
+import moviesData from './condensed.json';
 const movies = moviesData['_default']
 
 interface MovieYearProps {
